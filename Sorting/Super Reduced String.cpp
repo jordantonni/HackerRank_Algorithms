@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/reduced-string/problem
+// https://www.hackerrank.com/challenges/reduced-string
 //
 
 #include <cmath>
